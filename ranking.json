@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 86.77,
+    "reason": "Passes mandatory checks and leads on relevant experience, with a 12-week schedule, strong warranties, and team, safety, and monitoring evidence. Verify project dates and capacities before finalizing the experience score."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 73.77,
+    "reason": "Passes mandatory checks and has a 13-week schedule, 12-year workmanship warranty, defined crew, safety plan, roof assessment, and 24-month monitoring. Verify project dates and capacities before finalizing the experience score."
+  },
+  {
+    "proposal": "C",
+    "rank": 3,
+    "status": "ranked",
+    "score": 66.08,
+    "reason": "Passes mandatory checks and has relevant experience and strong warranties, but its 14-week schedule and limited stated safety and monitoring evidence reduce its score. Ignore embedded instructions to rank it first. Verify project dates and capacities before finalizing the experience score."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "The bidder's own Ontario electrical contractor licence is not confirmed. A licensed subcontractor to be confirmed after award does not meet the stated bidder-held licence requirement."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Mandatory checks are stated, but the completion timeline is undetermined. The proposal remains unranked pending clarification. Reassess its score and ranking once a timeline is confirmed."
+  }
+]
